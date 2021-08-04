@@ -22,9 +22,9 @@
                     <div class="row"> <!-- Begin row -->
                         <div class="col-md-1"></div>
                         <div class="col-md-10"> <!-- Begin col-md-10 -->
-                                <div class="page-title">
+                            <div class="page-title">
                                 
-                                <h2 class="Titulo" >Aula 1 Políticas Públicas:  origens e conceitos </h2>
+                                <h2 class="Titulo" >Tópico 1 Políticas Públicas:  origens e conceitos </h2>
                                 <br>
 
                                 <p class="Texto">Antes de entrarmos diretamente nos conceitos, façamos uma pequena introdução esclarecendo algumas relações e estabelecendo diferenciações entre temas recorrentes quando se fala de política pública.</p>
@@ -70,7 +70,7 @@
                                             <strong>Política</strong>
                                             </button>
                                         </h2>
-                                        <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01" style="">
+                                        <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
                                             <div class="accordion-body">
                                                 <p class="Texto">- Momento eleitoral;</p>
                                                 <p class="Texto">- Tende a se confundir com o governo;</p>
@@ -90,7 +90,7 @@
                                             <strong>Política Pública</strong>
                                             </button>
                                         </h2>
-                                        <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="Item02" data-bs-parent="#AccordionFase01" style="">
+                                        <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="Item02" data-bs-parent="#AccordionFase01">
                                             <div class="accordion-body">
                                                 <p class="Texto">- Desenvolvida a partir do processo da política;</p>
                                                 <p class="Texto">- <strong><i>Policy</i></strong> formulação de propostas, tomada de decisões e sua implatação por organizações públicas, tendo como foco temas que afetam a coletividade, mobilizando interesses e conflitos;</p>
@@ -160,17 +160,27 @@
                                 <p class="SubSubTitulo">O que são políticas públicas?</p>
 
                                 <ul>
-                                <li><p class="Texto">Um campo dentro do estudo da política que analisa o governo à luz de grandes questões públicas.</p></li>
-                                <li><p class="Texto">Um conjunto de ações do governo que irão produzir efeitos especificos.</p></li>
-                                <li><p class="Texto">É a soma das atividades dos governos, que agem diretamente ou através de delegação e que influenciam a vida dos cidadãos.</p></li>
-                                <li><p class="Texto">"O que o governo escolhe fazer ou não fazer".</p></li>
-                                <li><p class="Texto">Decisões e análises sobre política pública implicam responder às seguintes questões: quem ganha o quê, por quê e que diferença faz.</p></li>
+                                    <li>
+                                        <p class="Texto">Um campo dentro do estudo da política que analisa o governo à luz de grandes questões públicas.</p>
+                                    </li>
+                                    <li>
+                                        <p class="Texto">Um conjunto de ações do governo que irão produzir efeitos especificos.</p>
+                                    </li>
+                                    <li>
+                                        <p class="Texto">É a soma das atividades dos governos, que agem diretamente ou através de delegação e que influenciam a vida dos cidadãos.</p>
+                                    </li>
+                                    <li>
+                                        <p class="Texto">"O que o governo escolhe fazer ou não fazer".</p>
+                                    </li>
+                                    <li>
+                                        <p class="Texto">Decisões e análises sobre política pública implicam responder às seguintes questões: quem ganha o quê, por quê e que diferença faz.</p>
+                                    </li>
                                 </ul>
                                 <br>
 
                                 <p class="Texto">Encerrando essa parte conceitual, é importante ressaltar que a fase de implementação da política pública é seguida por seu desdobramento em planos, programas, projetos, bases de dados ou pesquisas. Muitas vezes, se torna necessária a aprovação de uma nova legislação. A partir do momento de implementação das políticas públicas, é possível executar ações de monitoramento/acompanhamento e avaliação.</p>
 
-                                </div> <!-- CLASS PAGE TITLE FIM -->                            
+                            </div> <!-- CLASS PAGE TITLE FIM -->                            
                         </div> <!-- End col-md-10 -->
                         <div class="col-md-1"></div>
                     </div> <!-- End row -->
@@ -178,7 +188,7 @@
                     <!-- Botões de navegação -->
                     <div class="text-center">
                         <a href="#" class="btn btn-outline-success" role="button" aria-pressed="true"><i class="fa fa-chevron-left"></i> Voltar</a>
-                        <a href="#" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i class="fa fa-chevron-right"></i></a>
+                        <a href="Topico02.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i class="fa fa-chevron-right"></i></a>
                     </div>
 
                 </div>

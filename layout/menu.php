@@ -20,7 +20,18 @@
                     <li class="sidebar-item">
                         <a href="../Modulo01/Topico01.php" class="MenuTopico sidebar-link">Tópico 01 - Políticas Públicas: origens e conceitos</a>
                     </li>
-
+                    <li class="sidebar-item">
+                        <a href="../Modulo01/Topico02.php" class="MenuTopico sidebar-link">Tópico 02 - Formulação e Análise de Políticas Públicas</a>
+                    </li>
+                    <li class="sidebar-item">
+                        <a href="../Modulo01/Topico03.php" class="MenuTopico sidebar-link">Tópico 03 - Ciclo de Políticas Públicas</a>
+                    </li>
+                    <li class="sidebar-item">
+                        <a href="../Modulo01/Topico04.php" class="MenuTopico sidebar-link">Tópico 04 - Atores Políticos (stakeholders)</a>
+                    </li>
+                    <li class="sidebar-item">
+                        <a href="../Modulo01/Topico05.php" class="MenuTopico sidebar-link">Tópico 05 - Políticas Públicas no Brasil entre os anos 1994 a 2016</a>
+                    </li>
                 </ul>
             </div>
             <button class="sidebar-toggler btn x"><i data-feather="x"></i></button>
