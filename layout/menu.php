@@ -31,7 +31,7 @@
                     </li>
                     <li class="sidebar-item has-sub">
                         <a href="#" class="MenuTopico sidebar-link">Tópico 05 - Políticas Públicas no Brasil entre os anos 1994 a 2016</a>
-                        
+
                         <ul class="submenu">
                             <li class="sidebar-item">
                                 <a href="../Topico05.php#SubTopico5.1" class="sidebar-sub">
@@ -44,6 +44,9 @@
                                 </a>
                             </li>
                         </ul>
+                    </li>
+                    <li class="sidebar-item">
+                        <a href="../Referencias.php" class="MenuTopico sidebar-link">Referencias</a>
                     </li>
                 </ul>
             </div>
