@@ -24,7 +24,7 @@
                         <div class="col-md-10"> <!-- Begin col-md-10 -->
                             <div class="page-title">
                                 
-                                <h2 class="Titulo" >Tópico 1 Políticas Públicas:  origens e conceitos </h2>
+                                <h2 class="Titulo" >Tópico 1 - Políticas Públicas:  origens e conceitos </h2>
                                 <br>
 
                                 <p class="Texto">Antes de entrarmos diretamente nos conceitos, façamos uma pequena introdução esclarecendo algumas relações e estabelecendo diferenciações entre temas recorrentes quando se fala de política pública.</p>

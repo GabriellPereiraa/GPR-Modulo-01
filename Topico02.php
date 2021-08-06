@@ -24,7 +24,7 @@
                         <div class="col-md-10"> <!-- Begin col-md-10 -->
                             <div class="page-title">
                                 
-                                <h2 class="Titulo" >Tópico 2 Formulação e Análise de Políticas Públicas</h2>
+                                <h2 class="Titulo" >Tópico 2 - Formulação e Análise de Políticas Públicas</h2>
                                 <br>
 
                                 <p class="Texto">Um governo, por melhor e mais bem equipado que seja, não consegue resolver todos os problemas (conflitos) de uma sociedade. A complexidade da ação de governar pode ser representada pela quantidade de demandas que emanam da população nas mais diversas categorias, desde os serviços básicos de saúde e educação, até as reivindicações por maior participação dos segmentos sociais na política, e a extensão dos direitos adquiridos a todos os indivíduos. </p>
