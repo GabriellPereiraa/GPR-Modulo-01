@@ -159,21 +159,21 @@
 
                                 <p class="SubSubTitulo">O que são políticas públicas?</p>
 
-                                <ul>
+                                <ul class="fa-ul">
                                     <li>
-                                        <p class="Texto">Um campo dentro do estudo da política que analisa o governo à luz de grandes questões públicas.</p>
+                                    <p class="Texto"><span class="fa-li"></span><i class="fas fa-dot-circle CorVerdeClaroEstado"></i>Um campo dentro do estudo da política que analisa o governo à luz de grandes questões públicas.</p>
                                     </li>
                                     <li>
-                                        <p class="Texto">Um conjunto de ações do governo que irão produzir efeitos especificos.</p>
+                                        <p class="Texto"><span class="fa-li"></span><i class="fas fa-dot-circle CorVerdeClaroEstado"></i>Um conjunto de ações do governo que irão produzir efeitos especificos.</p>
                                     </li>
                                     <li>
-                                        <p class="Texto">É a soma das atividades dos governos, que agem diretamente ou através de delegação e que influenciam a vida dos cidadãos.</p>
+                                        <p class="Texto"><span class="fa-li"></span><i class="fas fa-dot-circle CorVerdeClaroEstado"></i>É a soma das atividades dos governos, que agem diretamente ou através de delegação e que influenciam a vida dos cidadãos.</p>
                                     </li>
                                     <li>
-                                        <p class="Texto">"O que o governo escolhe fazer ou não fazer".</p>
+                                        <p class="Texto"><span class="fa-li"></span><i class="fas fa-dot-circle CorVerdeClaroEstado"></i>"O que o governo escolhe fazer ou não fazer".</p>
                                     </li>
                                     <li>
-                                        <p class="Texto">Decisões e análises sobre política pública implicam responder às seguintes questões: quem ganha o quê, por quê e que diferença faz.</p>
+                                        <p class="Texto"><span class="fa-li"></span><i class="fas fa-dot-circle CorVerdeClaroEstado"></i>Decisões e análises sobre política pública implicam responder às seguintes questões: quem ganha o quê, por quê e que diferença faz.</p>
                                     </li>
                                 </ul>
                                 <br>

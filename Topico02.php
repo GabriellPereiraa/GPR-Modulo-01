@@ -29,14 +29,11 @@
 
                                 <p class="Texto">Um governo, por melhor e mais bem equipado que seja, não consegue resolver todos os problemas (conflitos) de uma sociedade. A complexidade da ação de governar pode ser representada pela quantidade de demandas que emanam da população nas mais diversas categorias, desde os serviços básicos de saúde e educação, até as reivindicações por maior participação dos segmentos sociais na política, e a extensão dos direitos adquiridos a todos os indivíduos. </p>
 
-                                <div class="card text-black border-success Texto">
-                                    <div class="card-header"><strong>Reflita</strong></div>
-                                        <div class="card-body">
-                                            <p class="card-text">Então, como um governo faz para definir qual problema vai solucionar, qual demanda vai atender?</p>
-                                            <p class="card-text">Como o governo define sua agenda?</p>
-                                            <p class="card-text">Como se dá o processo de análise das políticas públicas que devem ser implementadas e qual a melhor metodologia a ser utilizada?</p>
-                                        </div>
-                                    </div>
+                                <div class="CuriosidadeCaixa">
+                                    <p class="CuriosidadeTitulo"> Reflita</p>
+                                    <p class="CuriosidadeTexto">Então, como um governo faz para definir qual problema vai solucionar, qual demanda vai atender?</p>
+                                    <p class="CuriosidadeTexto">Como o governo define sua agenda?</p>
+                                    <p class="CuriosidadeTexto">Como se dá o processo de análise das políticas públicas que devem ser implementadas e qual a melhor metodologia a ser utilizada?</p>
                                 </div>
                                 <br>
 
@@ -52,16 +49,16 @@
 
                                 <ul style="list-style-type: lower-alpha;">
                                     <li>
-                                        <p class="Texto"><strong>Políticas distributivas</strong>, decisões tomadas pelo governo, que desconsideram a questão dos recursos limitados, gerando impactos mais individuais do que universais, ao privilegiar certos grupos sociais ou regiões, em detrimento do todo;</p>
+                                        <p class="Texto"><strong> Políticas distributivas</strong>, decisões tomadas pelo governo, que desconsideram a questão dos recursos limitados, gerando impactos mais individuais do que universais, ao privilegiar certos grupos sociais ou regiões, em detrimento do todo;</p>
                                     </li>
                                     <li>
-                                        <p class="Texto"><strong>Políticas regulatórias</strong>, que são mais visíveis ao público, envolvendo burocracia, políticos e grupos de interesse;</p>
+                                        <p class="Texto"></i><strong> Políticas regulatórias</strong>, que são mais visíveis ao público, envolvendo burocracia, políticos e grupos de interesse;</p>
                                     </li>
                                     <li>
-                                        <p class="Texto"><strong>Políticas redistributivas</strong>, que atinge maior número de pessoas e impõe perdas concretas e no curto prazo para certos grupos sociais, e ganhos incertos e futuro para outros; são, em geral, as políticas sociais universais, o sistema tributário, o sistema previdenciário e são as de mais difícil encaminhamento;</p>
+                                        <p class="Texto"><strong> Políticas redistributivas</strong>, que atinge maior número de pessoas e impõe perdas concretas e no curto prazo para certos grupos sociais, e ganhos incertos e futuro para outros; são, em geral, as políticas sociais universais, o sistema tributário, o sistema previdenciário e são as de mais difícil encaminhamento;</p>
                                     </li>
                                     <li>
-                                        <p class="Texto"><strong>Políticas constitutivas</strong>, que lidam com procedimentos.</p>
+                                        <p class="Texto"><strong> Políticas constitutivas</strong>, que lidam com procedimentos.</p>
                                     </li>
                                 </ul>
                                 <br>
@@ -91,16 +88,16 @@
 
                                 <ul style="list-style-type: lower-alpha;">
                                     <li>
-                                        <p class="Texto">divulgação de indicadores que desnudam a dimensão do problema;</p>
+                                        <p class="Texto"> divulgação de indicadores que desnudam a dimensão do problema;</p>
                                     </li>
                                     <li>
-                                        <p class="Texto">eventos tais como desastres ou repetição continuada do mesmo problema; e</p>
+                                        <p class="Texto"> eventos tais como desastres ou repetição continuada do mesmo problema; e</p>
                                     </li>
                                     <li>
-                                        <p class="Texto">feedback, ou informações que mostram as falhas da política atual ou seus resultados medíocres.</p>
+                                        <p class="Texto"> feedback, ou informações que mostram as falhas da política atual ou seus resultados medíocres.</p>
                                     </li>
                                     <li>
-                                        <p class="Texto">Esses empreendedores podem constituir, e em geral constituem, redes sociais. Redes envolvem contatos, vínculos e conexões que relacionam os agentes entre si e não se reduzem às propriedades dos agentes individuais.</p>
+                                        <p class="Texto"> Esses empreendedores podem constituir, e em geral constituem, redes sociais. Redes envolvem contatos, vínculos e conexões que relacionam os agentes entre si e não se reduzem às propriedades dos agentes individuais.</p>
                                     </li>
                                 </ul>
                                 <br>
@@ -112,15 +109,15 @@
 
                                 <p class="Texto">Além dos modelos descritos acima, há ainda aqueles influenciados pelo “novo gerencialismo público” e pelo ajuste fiscal. Esses modelos evidenciam três importantes fatores:</p>
                                 
-                                <ul>
+                                <ul class="fa-ul">
                                     <li>
-                                        <p class="Texto">a eficiência, que é tida como objetivo principal de toda e qualquer política pública;</p>
+                                        <p class="Texto"><span class="fa-li"></span><i class="fas fa-dot-circle CorVerdeClaroEstado"></i> a eficiência, que é tida como objetivo principal de toda e qualquer política pública;</p>
                                         </li>
                                     <li>
-                                        <p class="Texto">a credibilidade, que se baseia na existência de regras claras em contraposição à discricionariedade dos decisores públicos e burocratas, a qual levaria à inconsistência;</p>
+                                        <p class="Texto"><span class="fa-li"></span><i class="fas fa-dot-circle CorVerdeClaroEstado"></i> a credibilidade, que se baseia na existência de regras claras em contraposição à discricionariedade dos decisores públicos e burocratas, a qual levaria à inconsistência;</p>
                                         </li>
                                     <li>
-                                        <p class="Texto">delegação das políticas públicas para instituições com “independência” política, justificada pela competência de seus membros e a credibilidade conquistada historicamente na atuação em diferentes mercados.</p>
+                                        <p class="Texto"><span class="fa-li"></span><i class="fas fa-dot-circle CorVerdeClaroEstado"></i> delegação das políticas públicas para instituições com “independência” política, justificada pela competência de seus membros e a credibilidade conquistada historicamente na atuação em diferentes mercados.</p>
                                     </li>
                                 </ul>
 
@@ -130,22 +127,22 @@
                                     <div class="card-body">
                                         <ul style="list-style-type:upper-greek;">
                                             <li>
-                                                <p class="Texto">A política pública permite distinguir entre o que o governo pretende fazer e o que, de fato, faz;</p>
+                                                <p class="Texto"> A política pública permite distinguir entre o que o governo pretende fazer e o que, de fato, faz;</p>
                                                 </li>
                                             <li>
-                                                <p class="Texto">A política pública envolve vários atores e níveis de decisão, embora sejamaterializada através dos governos, e não necessariamente se restringe a participantes formais, já que osinformais são também importantes;</p>
+                                                <p class="Texto"> A política pública envolve vários atores e níveis de decisão, embora sejamaterializada através dos governos, e não necessariamente se restringe a participantes formais, já que osinformais são também importantes;</p>
                                             </li>
                                             <li>
-                                                <p class="Texto">A política pública é abrangente e não se limita a leis e regras;</p>
+                                                <p class="Texto"> A política pública é abrangente e não se limita a leis e regras;</p>
                                             </li>
                                             <li>
-                                                <p class="Texto">A política pública éuma ação intencional,com objetivosa serem alcançados;</p>
+                                                <p class="Texto"> A política pública éuma ação intencional,com objetivosa serem alcançados;</p>
                                                 </li>
                                             <li>
-                                                <p class="Texto">A política pública, embora tenha impactos no curto prazo, é uma política de longo prazo;</p>
+                                                <p class="Texto"> A política pública, embora tenha impactos no curto prazo, é uma política de longo prazo;</p>
                                                 </li>
                                             <li>
-                                                <p class="Texto">A política pública envolve processos subsequentes após sua decisão e proposição, ou seja, implica também implementação, execução eavaliação.</p>
+                                                <p class="Texto"> A política pública envolve processos subsequentes após sua decisão e proposição, ou seja, implica também implementação, execução eavaliação.</p>
                                                 </li>
                                         </ul>
                                     </div>

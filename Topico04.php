@@ -35,15 +35,15 @@
 
                                 <p class="Texto">Para melhor entendimento, Rua (2014), distingue atores públicos de atores privados. Os atores públicos são aqueles que se distinguem por exercer funções públicas e por mobilizar os recursos associados a estas funções. Dentre os atores públicos, por sua vez, podemos diferenciar, numa visão generalizada, duas categorias:</p>
 
-                                <ul>
+                                <ul class="fa-ul">
                                     <li>
-                                        <p class="Texto">Políticos são aqueles atores cuja posição resulta  de mandatos eletivos. Por isso, sua atuação é  condicionada principalmente pelo cálculo eleitoral  e pelo pertencimento a partidos políticos. São os  parlamentares, governadores, prefeitos e membros  eleitos do Executivo federal.</p>
+                                        <p class="Texto"><span class="fa-li"></span><i class="fas fa-dot-circle CorVerdeClaroEstado"></i> Políticos são aqueles atores cuja posição resulta  de mandatos eletivos. Por isso, sua atuação é  condicionada principalmente pelo cálculo eleitoral  e pelo pertencimento a partidos políticos. São os  parlamentares, governadores, prefeitos e membros  eleitos do Executivo federal.</p>
                                     </li>
                                     <li style="list-style-type:none;">
                                         <p class="Texto">RUA, 2014</p>
                                     </li>
                                     <li>
-                                        <p class="Texto">Burocratas, por sua vez, devem a sua posição à  ocupação de postos de trabalho que requerem  conhecimento especializado e que se situam em um  sistema de cargos públicos. São burocratas todos os  servidores públicos federais, estaduais e municipais que  possuem esses atributos. Compreendem gestores de alto  escalão, chefias intermediárias, e um vasto exército de  servidores situados na base da administração pública,  aparentemente sem grandes recursos de poder, que  estão em contato direto e permanente com os cidadãos.</p>
+                                        <p class="Texto"><span class="fa-li"></span><i class="fas fa-dot-circle CorVerdeClaroEstado"></i> Burocratas, por sua vez, devem a sua posição à  ocupação de postos de trabalho que requerem  conhecimento especializado e que se situam em um  sistema de cargos públicos. São burocratas todos os  servidores públicos federais, estaduais e municipais que  possuem esses atributos. Compreendem gestores de alto  escalão, chefias intermediárias, e um vasto exército de  servidores situados na base da administração pública,  aparentemente sem grandes recursos de poder, que  estão em contato direto e permanente com os cidadãos.</p>
                                     </li>
                                     <li style="list-style-type:none;">
                                         <p class="Texto">RUA, 2014</p>
@@ -57,15 +57,15 @@
 
                                 <p class="Texto">Quando falamos das relações entre burocracia e políticas públicas,  vale destacarmos que a literatura da área faz menção ao grupo conhecido  como street-level bureaucracy, ou burocracia de nível de rua. Trata-se  de servidores administrativos que operam na ponta, no atendimento  ao público, e que se apresentam como a face pessoal de um governo,  podendo afetar fortemente a implementação das políticas públicas  devido ao seu controle de acessos, seu conhecimento do público etc.</p>
 
-                                <ul>
+                                <ul class="fa-ul">
                                     <li>
-                                        <p class="Texto">Entre os atores privados destacam-se os empresários. Sem  qualquer sombra de dúvida, são atores dotados de grande capacidade  de influir nas políticas públicas, já que são capazes de afetar a economia  do País: controlam as atividades de produção e o abastecimento, podem  afetar o equilíbrio do mercado e a oferta de empregos.</p>
+                                        <p class="Texto"><span class="fa-li"></span><i class="fas fa-dot-circle CorVerdeClaroEstado"></i> Entre os atores privados destacam-se os empresários. Sem  qualquer sombra de dúvida, são atores dotados de grande capacidade  de influir nas políticas públicas, já que são capazes de afetar a economia  do País: controlam as atividades de produção e o abastecimento, podem  afetar o equilíbrio do mercado e a oferta de empregos.</p>
                                     </li>
                                     <li style="list-style-type:none;">
                                         <p class="Texto">RUA, 2014</p>
                                     </li>
                                     <li>
-                                        <p class="Texto">Outro ator importante são os trabalhadores. O seu poder resulta  da capacidade de ação organizada; portanto, atuam através de seus  sindicatos. Estes eventualmente podem estar ligados a partidos, ONGs  e até mesmo a igrejas.</p>
+                                        <p class="Texto"><span class="fa-li"></span><i class="fas fa-dot-circle CorVerdeClaroEstado"></i> Outro ator importante são os trabalhadores. O seu poder resulta  da capacidade de ação organizada; portanto, atuam através de seus  sindicatos. Estes eventualmente podem estar ligados a partidos, ONGs  e até mesmo a igrejas.</p>
                                     </li>
                                     <li style="list-style-type:none;">
                                         <p class="Texto">RUA, 2014</p>
@@ -77,15 +77,15 @@
 
                                 <p class="Texto">Via de regra, os trabalhadores tendem a se manifestar por intermédio de suas organizações sindicais, reunidas, ou não, em grandes confederações, como a Central Única dos Trabalhadores (CUT), a  Confederação Geral dos Trabalhadores (CGT) e outras. Além dos que se inserem numa relação de emprego formal, há ainda os trabalhadores informais, os autônomos e os profissionais liberais. Estes podem se manifestar ou por meio de sindicatos profissionais ou por meio de associações, que podem ir desde as recentes Associações de Catadores de Lixo etc. até entidades mais antigas como a Ordem dos Médicos, a Ordem dos Advogados etc.</p>
 
-                                <ul>
+                                <ul class="fa-ul">
                                     <li>
-                                        <p class="Texto">Ainda no sistema nacional temos presentes outros atores,  situados além das relações entre o capital e o trabalho. Compreendem um universo extremamente amplo e diversificado, seja quanto às  áreas temáticas em que atuam, quanto ao estilo de atuação, quanto à capacidade de mobilização, quanto ao escopo de ação etc. Podem ser entidades voltadas para a defesa de interesses específicos, como  associações de moradores, de proteção a animais, entidades religiosas,  ambientalistas etc. Algumas delas se apresentam como cooperativas, associações, ONGs etc.</p>
+                                        <p class="Texto"><span class="fa-li"></span><i class="fas fa-dot-circle CorVerdeClaroEstado"></i> Ainda no sistema nacional temos presentes outros atores,  situados além das relações entre o capital e o trabalho. Compreendem um universo extremamente amplo e diversificado, seja quanto às  áreas temáticas em que atuam, quanto ao estilo de atuação, quanto à capacidade de mobilização, quanto ao escopo de ação etc. Podem ser entidades voltadas para a defesa de interesses específicos, como  associações de moradores, de proteção a animais, entidades religiosas,  ambientalistas etc. Algumas delas se apresentam como cooperativas, associações, ONGs etc.</p>
                                     </li>
                                     <li style="list-style-type:none;">
                                         <p class="Texto">RUA, 2014</p>
                                     </li>
                                     <li>
-                                        <p class="Texto">Existem ainda outros atores de grande importância no processo político que operam no sistema internacional/global. Estes podem ser agentes financeiros, como grandes corporações financeiras e empresas multinacionais, além de instituições como o Fundo Monetário Internacional (FMI), o Banco Mundial etc., cuja importância é óbvia no que diz respeito a questões econômicas. Podem ser também  organizações multilaterais, como todas as agências do sistema Nações Unidas (ONU).</p>
+                                        <p class="Texto"><span class="fa-li"></span><i class="fas fa-dot-circle CorVerdeClaroEstado"></i> Existem ainda outros atores de grande importância no processo político que operam no sistema internacional/global. Estes podem ser agentes financeiros, como grandes corporações financeiras e empresas multinacionais, além de instituições como o Fundo Monetário Internacional (FMI), o Banco Mundial etc., cuja importância é óbvia no que diz respeito a questões econômicas. Podem ser também  organizações multilaterais, como todas as agências do sistema Nações Unidas (ONU).</p>
                                     </li>
                                     <li style="list-style-type:none;">
                                         <p class="Texto">RUA, 2014</p>
@@ -116,12 +116,12 @@
 
                                 <p class="Texto">De acordo com Rua (2014), um elemento essencial para compreender os problemas da escolha racional e da participação na ação coletiva é a natureza dos bens:</p>
 
-                                <ul>
+                                <ul class="fa-ul">
                                     <li>
-                                        <p class="Texto">privado – quando os seus benefícios são exclusivamente disfrutados pela pessoa ou pelo grupo que o possui. Nesse caso, ele não é objeto de política pública; ou</p>
+                                        <p class="Texto"><span class="fa-li"></span><i class="fas fa-dot-circle CorVerdeClaroEstado"></i> privado – quando os seus benefícios são exclusivamente disfrutados pela pessoa ou pelo grupo que o possui. Nesse caso, ele não é objeto de política pública; ou</p>
                                     </li>
                                     <li>
-                                        <p class="Texto">público – quando é produzido pelo poder público e não há possibilidade de excluir do seu desfrute nenhum dos membros de um grupo, nem mesmo os que não tenham enfrentado os custos de obtê-lo.</p>
+                                        <p class="Texto"><span class="fa-li"></span><i class="fas fa-dot-circle CorVerdeClaroEstado"></i> público – quando é produzido pelo poder público e não há possibilidade de excluir do seu desfrute nenhum dos membros de um grupo, nem mesmo os que não tenham enfrentado os custos de obtê-lo.</p>
                                     </li>
                                 </ul>
                                 <br>
