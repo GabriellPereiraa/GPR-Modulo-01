@@ -33,4 +33,7 @@
 
     <!-- LighBox -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css" rel="stylesheet">
+    
+    <!-- Css Ux -->
+    <link rel="stylesheet" type="text/css" href="../assets/css/ux.css">
 </head>
